@@ -1,0 +1,2 @@
+PS
+To find the duplicate number in a linked list and then delete it.
